@@ -6,6 +6,12 @@
 //  Copyright © 2017 Aditya Gaonkr. All rights reserved.
 //
 
+
+/*
+ given an array , each index represents digit
+ add 1 to the number ans display result
+ 
+ */
 import UIKit
 
 class ViewController: UIViewController {
